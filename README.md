@@ -20,7 +20,7 @@ In order to use tensorflow and applying basic deep learning example we are going
 
  * Open new cmd window and run `docker image ls`. It should list available docker images.
  * To install a tensorflow docker instance we need first to download it. run `docker pull tensorflow\tensorflow`.
- * After downloading and unpacking is done, you can start new instance by running this command 'docker run -it --rm --name="tf" -p 8888:8888 -p 6006:6006'
+ * After downloading and unpacking is done, you can start new instance by running this command `docker run -it --rm --name="tf" -p 8888:8888 -p 6006:6006`
  *  Copy the link generated, it should open a browser window that point to jupyter notebook.
  *  If link is not working try to replace localhost by 192.168.99.100
  * Now you are ready to rock :+1:
