@@ -24,3 +24,11 @@ In order to use tensorflow and applying basic deep learning example we are going
  *  Copy the link generated and paste it on new browser window. It should point to a jupyter notebook working directory.
  *  If link is not working try to replace `localhost` by `192.168.99.100`
  * Now you are ready to rock :+1:
+
+##### 3. Presentation
+ * Find My presentation about Neural Network and Deep Learning at [SlideShare](https://www.slideshare.net/secret/1edlP8zEzjPcwv)
+ 
+##### 4. [Introduction to Tensorflow](https://github.com/eelzinaty/GazaDevFest17/blob/master/Tensorflow%20Introduction.ipynb)
+ 
+##### 5. Sample Code Lab
+ * Code Sample for Simple Linear Model [Code](https://github.com/eelzinaty/GazaDevFest17/blob/master/Simple%20Linear%20Model.ipynb)
