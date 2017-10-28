@@ -32,3 +32,13 @@ In order to use tensorflow and applying basic deep learning example we are going
  
 ##### 5. Sample Code Lab
  * Code Sample for Simple Linear Model [Code](https://github.com/eelzinaty/GazaDevFest17/blob/master/Simple%20Linear%20Model.ipynb)
+ 
+ ##### 6. Learning Resources
+- Get started with [Tensorflow](https://www.tensorflow.org/)
+- Tutorials
+	1. TensorFlow Tutorial and Examples for Beginners [repo](https://github.com/aymericdamien/TensorFlow-Examples)
+	2. TensorFlow [Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials) with [YouTube Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+
+- Basic Introduction to Neural Networks and Deep Learning, [Article1](https://www.codeproject.com/Articles/1200392/Neural-Network) [Article2](https://medium.freecodecamp.org/want-to-know-how-deep-learning-works-heres-a-quick-guide-for-everyone-1aedeca88076)
+- Machine Learning [course](https://www.coursera.org/learn/machine-learning) tought by the best. 
+- Deep Learning [course](https://www.coursera.org/specializations/deep-learning) that covers almost every model of use with good introduction.
