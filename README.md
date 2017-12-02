@@ -14,6 +14,7 @@ In order to use tensorflow and applying basic deep learning example we are going
  * If you are using Windows 10 you can directly download docker and install it from [Docker Store](https://store.docker.com/editions/community/docker-ce-desktop-windows).
  * Otherwise, you can download and install [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/).
  * After installation is done, open new cmd window and type `docker ps`. If you encountered an error running this command, you should follow [these steps](https://forums.docker.com/t/windows-an-error-occurred-trying-to-connect/4384).
+ * If the above command does not work and you get error message says `Error checking TLS connection:..`, try to run this command `docker-machine restart` then run the above step.
  * Finally, it is worth to spend few minutes on reading [Get Started Tutorial](https://docs.docker.com/get-started/)
 
 ##### 2. Run Tensorflow using docker
